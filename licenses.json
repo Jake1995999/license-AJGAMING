@@ -1,7 +1,6 @@
 {
-  "licenses": {
-    "Marshall45": {
-      "device_id": "cebdb96d7002acf2"
-    }
+  "Marshall45": {
+    "active": true,
+    "device_id": "cebdb96d7002acf2"
   }
 }
